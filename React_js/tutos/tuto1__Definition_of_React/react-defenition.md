@@ -11,6 +11,15 @@ paginate: true
 **Presented by:** Mounir
 
 ---
+#  plan 
+ 1. what is React ?
+ 2. Why Do We Use React?
+ 3. What Is a Component?
+ 4. How Does React Work?
+ 5. What Do We Need to Learn React?
+ 6.  Conclusion
+
+---
 
 ## 1. What Is React?
 
