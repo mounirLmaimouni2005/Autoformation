@@ -23,9 +23,6 @@ paginate: true
 
 ## 1. What Is React?
 
-Hello everyone!
-
-Today, I will talk about React.
 
 React is a JavaScript library used to build user interfaces for websites and web applications.
 
@@ -92,4 +89,4 @@ It makes code more organized and allows us to reuse components.
 
 # Thank You!
 
-### Any Questions?
+
